@@ -1,5 +1,5 @@
 Source Code: https://github.com/naimulislammehedi/Full-Stack_Web_Development 
-Full Playlist: 
+Full Playlist: https://www.youtube.com/watch?v=42DkcH-i0EU&list=PLxcGVbaxQB4WeVTtZzg_awQ4_iHZ9dVC6&pp=sAgC 
 
 Want to become a professional web developer but don’t know where to start?
 This complete beginner-friendly playlist will guide you step-by-step from HTML to Full-Stack Development using modern technologies.
@@ -55,4 +55,4 @@ GitHub: naimulislammehedi
 🔥 If you’re serious about becoming a Web Developer in 2026, this playlist is your complete roadmap. Start coding and building today.
 
 📌 Tags 
-web development full course, web development roadmap 2026, web developer roadmap, full stack web development, html css javascript tutorial, tailwind css tutorial, react js beginner tutorial, node js express mongodb tutorial, mern stack full course, next js full tutorial, firebase authentication tutorial, backend development for beginners, frontend development course, how to become web developer, web development for beginners, learn web development step by step, full stack developer course, mern stack tutorial for beginners, coding for beginners, programming for beginners, Mehedi web development, Mehedi coding tutorials
+web development full course, web development roadmap 2026, web developer roadmap, full stack web development, html css javascript tutorial, tailwind css tutorial, react js beginner tutorial, node js express mongodb tutorial, mern stack full course, next js full tutorial, firebase authentication tutorial, backend development for beginners, frontend development course, how to become web developer, web development for beginners, learn web development step by step
